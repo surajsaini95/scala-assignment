@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+*.class
+*.log
+=======
+*.log
+target
+>>>>>>> initial commit
