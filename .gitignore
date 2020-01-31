@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 *.class
 *.log
+.idea
 =======
-*.log
 target
 >>>>>>> initial commit
