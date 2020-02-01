@@ -18,7 +18,9 @@ def area(shape: String, first: Int, second: Int, f: (Int, Int) => Int): String =
   shape match {
     case "rectangle" => s"Area of $shape is " + f(first, second)
     case "square" => s"Not defined yet for $shape."
-    case _ => "Shape not found"
+    case "rhombus" => s"Area of $shape is " + f(first, second)
+    case "parallelogram" => s"Area of $shape is " + f(first, second)
+   case _ => "Shape not found"
   }
 }
 
