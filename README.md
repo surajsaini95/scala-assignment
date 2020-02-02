@@ -1,2 +1,2 @@
 # scala-assignment
-based on searching and sorting
+contains scala assignments based on different topics covered
